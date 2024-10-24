@@ -53,7 +53,7 @@ The default hyperparameters can be found in [`config/maze2d.py`](config/maze2d.p
 For model-specific training details, check the [`diffuser/utils/training.py`](diffuser/utils/training.py) file. You can modify the training process, such as setting the frequency for labeling checkpoints, e.g., `--label_freq=100000`.
 
 Training results will be stored in the following directory:
-[`logs/maze2d-large-v1/diffusion/H384_T256`](logs/maze2d-large-v1/diffusion/H384_T256). I've already run this code, and the results are included here so you can review how the model works without needing to run it yourself.
+[`logs/maze2d-large-v1/diffusion/H384_T256`](logs/maze2d-large-v1/diffusion/H384_T256).
 
 The trained model is saved as [`state_XXX.pt`](logs/maze2d-large-v1/diffusion/H384_T256/state_560000.pt). Alongside the model, training results are also saved as `.png` files. Below are two examples, showing results from epoch 0 and epoch 560000:
 
