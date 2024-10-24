@@ -10,6 +10,28 @@ This branch has the Maze2D experiments and will be merged into main shortly.
 
 ## Original Diffuser Code
 This code is based on the [original diffuser code](https://github.com/jannerm/diffuser/tree/maze2d) from UCB. However, some of the packages in the original code were not compatible with my setup, so I made modifications to both the packages and the training code to ensure compatibility and functionality.
+
+## MuJoCo Installation
+
+To run this Diffuser, MuJoCo 2.00 should be installed. You can use the provided [`install_mujoco.sh`](install_mujoco.sh) script to automate the installation.
+
+### Steps:
+
+1. Copy the `install_mujoco.sh` file to your home directory.
+2. Run the following commands to install MuJoCo 2.00:
+
+   ```bash
+   chmod +x install_mujoco.sh
+   ./install_mujoco.sh
+3. After installation, add the following lines to your `.bashrc` (or `.zshrc`):
+    ```
+    export MUJOCO_PY_MUJOCO_PATH=~/.mujoco/mujoco200
+    export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:~/.mujoco/mujoco200/bin
+    ```
+4. Apply the changes by running:
+    ```
+    source ~/.bashrc
+    ```
 ## Installation
 
 ```
