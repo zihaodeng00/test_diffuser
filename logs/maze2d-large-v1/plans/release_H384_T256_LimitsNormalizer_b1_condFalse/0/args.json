@@ -1,0 +1,66 @@
+{
+    "add_extras": {
+        "_string": "<bound method Parser.add_extras of Parser(prog='plan_maze2d.py', usage=None, description=None, formatter_class=<class 'argparse.HelpFormatter'>, conflict_handler='error', add_help=True)>",
+        "_type": "python_object (type = method)",
+        "_value": "gASVAAMAAAAAAACMCGJ1aWx0aW5zlIwHZ2V0YXR0cpSTlIwIX19tYWluX1+UjAZQYXJzZXKUk5QpgZR9lCiMBmNvbmZpZ5SMDWNvbmZpZy5tYXplMmSUjBFnZW5lcmF0ZV9leHBfbmFtZZRoAmgGaAqGlFKUjAdob3Jpem9ulE2AAYwPZGlmZnVzaW9uX2Vwb2NolIwGbGF0ZXN0lIwHbG9nYmFzZZSMBGxvZ3OUjAlzYXZlX2RpZmaUaAJoBmgShpRSlIwGZGV2aWNllIwEY3VkYZSMBnN1ZmZpeJSMATCUjBJkaWZmdXNpb25fbG9hZHBhdGiUjBNkaWZmdXNpb24vSDM4NF9UMjU2lIwIc2V0X3NlZWSUaAJoBmgbhpRSlIwLY29uZGl0aW9uYWyUiYwLcmVhZF9jb25maWeUaAJoBmgfhpRSlIwHZGF0YXNldJSMD21hemUyZC1sYXJnZS12MZSMDWV2YWxfZnN0cmluZ3OUaAJoBmgkhpRSlIwKZ2V0X2NvbW1pdJRoAmgGaCeGlFKUjAZwcmVmaXiUjA1wbGFucy9yZWxlYXNllIwIZXhwX25hbWWUjDVwbGFucy9yZWxlYXNlX0gzODRfVDI1Nl9MaW1pdHNOb3JtYWxpemVyX2IxX2NvbmRGYWxzZZSMCm5vcm1hbGl6ZXKUjBBMaW1pdHNOb3JtYWxpemVylIwIdmlzX2ZyZXGUSwqMCmFkZF9leHRyYXOUaAJoBmgxhpRSlIwKYmF0Y2hfc2l6ZZRLAYwGY29tbWl0lIwvNGRjMWU5ZTdlNTA1NGRhNmU4YTdlODM4NDAyMmM4Zjc5Y2U2OWM1MCBtYXN0ZXKUjAVta2RpcpRoAmgGaDeGlFKUjAhzYXZlcGF0aJSMTGxvZ3MvbWF6ZTJkLWxhcmdlLXYxL3BsYW5zL3JlbGVhc2VfSDM4NF9UMjU2X0xpbWl0c05vcm1hbGl6ZXJfYjFfY29uZEZhbHNlLzCUjBFuX2RpZmZ1c2lvbl9zdGVwc5RNAAF1YmgxhpRSlC4="
+    },
+    "batch_size": 1,
+    "commit": "4dc1e9e7e5054da6e8a7e8384022c8f79ce69c50 master",
+    "conditional": false,
+    "config": "config.maze2d",
+    "dataset": "maze2d-large-v1",
+    "device": "cuda",
+    "diffusion_epoch": "latest",
+    "diffusion_loadpath": "diffusion/H384_T256",
+    "eval_fstrings": {
+        "_string": "<bound method Parser.eval_fstrings of Parser(prog='plan_maze2d.py', usage=None, description=None, formatter_class=<class 'argparse.HelpFormatter'>, conflict_handler='error', add_help=True)>",
+        "_type": "python_object (type = method)",
+        "_value": "gASVAAMAAAAAAACMCGJ1aWx0aW5zlIwHZ2V0YXR0cpSTlIwIX19tYWluX1+UjAZQYXJzZXKUk5QpgZR9lCiMBmNvbmZpZ5SMDWNvbmZpZy5tYXplMmSUjBFnZW5lcmF0ZV9leHBfbmFtZZRoAmgGaAqGlFKUjAdob3Jpem9ulE2AAYwPZGlmZnVzaW9uX2Vwb2NolIwGbGF0ZXN0lIwHbG9nYmFzZZSMBGxvZ3OUjAlzYXZlX2RpZmaUaAJoBmgShpRSlIwGZGV2aWNllIwEY3VkYZSMBnN1ZmZpeJSMATCUjBJkaWZmdXNpb25fbG9hZHBhdGiUjBNkaWZmdXNpb24vSDM4NF9UMjU2lIwIc2V0X3NlZWSUaAJoBmgbhpRSlIwLY29uZGl0aW9uYWyUiYwLcmVhZF9jb25maWeUaAJoBmgfhpRSlIwHZGF0YXNldJSMD21hemUyZC1sYXJnZS12MZSMDWV2YWxfZnN0cmluZ3OUaAJoBmgkhpRSlIwKZ2V0X2NvbW1pdJRoAmgGaCeGlFKUjAZwcmVmaXiUjA1wbGFucy9yZWxlYXNllIwIZXhwX25hbWWUjDVwbGFucy9yZWxlYXNlX0gzODRfVDI1Nl9MaW1pdHNOb3JtYWxpemVyX2IxX2NvbmRGYWxzZZSMCm5vcm1hbGl6ZXKUjBBMaW1pdHNOb3JtYWxpemVylIwIdmlzX2ZyZXGUSwqMCmFkZF9leHRyYXOUaAJoBmgxhpRSlIwKYmF0Y2hfc2l6ZZRLAYwGY29tbWl0lIwvNGRjMWU5ZTdlNTA1NGRhNmU4YTdlODM4NDAyMmM4Zjc5Y2U2OWM1MCBtYXN0ZXKUjAVta2RpcpRoAmgGaDeGlFKUjAhzYXZlcGF0aJSMTGxvZ3MvbWF6ZTJkLWxhcmdlLXYxL3BsYW5zL3JlbGVhc2VfSDM4NF9UMjU2X0xpbWl0c05vcm1hbGl6ZXJfYjFfY29uZEZhbHNlLzCUjBFuX2RpZmZ1c2lvbl9zdGVwc5RNAAF1YmgkhpRSlC4="
+    },
+    "exp_name": "plans/release_H384_T256_LimitsNormalizer_b1_condFalse",
+    "generate_exp_name": {
+        "_string": "<bound method Parser.generate_exp_name of Parser(prog='plan_maze2d.py', usage=None, description=None, formatter_class=<class 'argparse.HelpFormatter'>, conflict_handler='error', add_help=True)>",
+        "_type": "python_object (type = method)",
+        "_value": "gASVAAMAAAAAAACMCGJ1aWx0aW5zlIwHZ2V0YXR0cpSTlIwIX19tYWluX1+UjAZQYXJzZXKUk5QpgZR9lCiMBmNvbmZpZ5SMDWNvbmZpZy5tYXplMmSUjBFnZW5lcmF0ZV9leHBfbmFtZZRoAmgGaAqGlFKUjAdob3Jpem9ulE2AAYwPZGlmZnVzaW9uX2Vwb2NolIwGbGF0ZXN0lIwHbG9nYmFzZZSMBGxvZ3OUjAlzYXZlX2RpZmaUaAJoBmgShpRSlIwGZGV2aWNllIwEY3VkYZSMBnN1ZmZpeJSMATCUjBJkaWZmdXNpb25fbG9hZHBhdGiUjBNkaWZmdXNpb24vSDM4NF9UMjU2lIwIc2V0X3NlZWSUaAJoBmgbhpRSlIwLY29uZGl0aW9uYWyUiYwLcmVhZF9jb25maWeUaAJoBmgfhpRSlIwHZGF0YXNldJSMD21hemUyZC1sYXJnZS12MZSMDWV2YWxfZnN0cmluZ3OUaAJoBmgkhpRSlIwKZ2V0X2NvbW1pdJRoAmgGaCeGlFKUjAZwcmVmaXiUjA1wbGFucy9yZWxlYXNllIwIZXhwX25hbWWUjDVwbGFucy9yZWxlYXNlX0gzODRfVDI1Nl9MaW1pdHNOb3JtYWxpemVyX2IxX2NvbmRGYWxzZZSMCm5vcm1hbGl6ZXKUjBBMaW1pdHNOb3JtYWxpemVylIwIdmlzX2ZyZXGUSwqMCmFkZF9leHRyYXOUaAJoBmgxhpRSlIwKYmF0Y2hfc2l6ZZRLAYwGY29tbWl0lIwvNGRjMWU5ZTdlNTA1NGRhNmU4YTdlODM4NDAyMmM4Zjc5Y2U2OWM1MCBtYXN0ZXKUjAVta2RpcpRoAmgGaDeGlFKUjAhzYXZlcGF0aJSMTGxvZ3MvbWF6ZTJkLWxhcmdlLXYxL3BsYW5zL3JlbGVhc2VfSDM4NF9UMjU2X0xpbWl0c05vcm1hbGl6ZXJfYjFfY29uZEZhbHNlLzCUjBFuX2RpZmZ1c2lvbl9zdGVwc5RNAAF1YmgKhpRSlC4="
+    },
+    "get_commit": {
+        "_string": "<bound method Parser.get_commit of Parser(prog='plan_maze2d.py', usage=None, description=None, formatter_class=<class 'argparse.HelpFormatter'>, conflict_handler='error', add_help=True)>",
+        "_type": "python_object (type = method)",
+        "_value": "gASVAAMAAAAAAACMCGJ1aWx0aW5zlIwHZ2V0YXR0cpSTlIwIX19tYWluX1+UjAZQYXJzZXKUk5QpgZR9lCiMBmNvbmZpZ5SMDWNvbmZpZy5tYXplMmSUjBFnZW5lcmF0ZV9leHBfbmFtZZRoAmgGaAqGlFKUjAdob3Jpem9ulE2AAYwPZGlmZnVzaW9uX2Vwb2NolIwGbGF0ZXN0lIwHbG9nYmFzZZSMBGxvZ3OUjAlzYXZlX2RpZmaUaAJoBmgShpRSlIwGZGV2aWNllIwEY3VkYZSMBnN1ZmZpeJSMATCUjBJkaWZmdXNpb25fbG9hZHBhdGiUjBNkaWZmdXNpb24vSDM4NF9UMjU2lIwIc2V0X3NlZWSUaAJoBmgbhpRSlIwLY29uZGl0aW9uYWyUiYwLcmVhZF9jb25maWeUaAJoBmgfhpRSlIwHZGF0YXNldJSMD21hemUyZC1sYXJnZS12MZSMDWV2YWxfZnN0cmluZ3OUaAJoBmgkhpRSlIwKZ2V0X2NvbW1pdJRoAmgGaCeGlFKUjAZwcmVmaXiUjA1wbGFucy9yZWxlYXNllIwIZXhwX25hbWWUjDVwbGFucy9yZWxlYXNlX0gzODRfVDI1Nl9MaW1pdHNOb3JtYWxpemVyX2IxX2NvbmRGYWxzZZSMCm5vcm1hbGl6ZXKUjBBMaW1pdHNOb3JtYWxpemVylIwIdmlzX2ZyZXGUSwqMCmFkZF9leHRyYXOUaAJoBmgxhpRSlIwKYmF0Y2hfc2l6ZZRLAYwGY29tbWl0lIwvNGRjMWU5ZTdlNTA1NGRhNmU4YTdlODM4NDAyMmM4Zjc5Y2U2OWM1MCBtYXN0ZXKUjAVta2RpcpRoAmgGaDeGlFKUjAhzYXZlcGF0aJSMTGxvZ3MvbWF6ZTJkLWxhcmdlLXYxL3BsYW5zL3JlbGVhc2VfSDM4NF9UMjU2X0xpbWl0c05vcm1hbGl6ZXJfYjFfY29uZEZhbHNlLzCUjBFuX2RpZmZ1c2lvbl9zdGVwc5RNAAF1YmgnhpRSlC4="
+    },
+    "horizon": 384,
+    "logbase": "logs",
+    "mkdir": {
+        "_string": "<bound method Parser.mkdir of Parser(prog='plan_maze2d.py', usage=None, description=None, formatter_class=<class 'argparse.HelpFormatter'>, conflict_handler='error', add_help=True)>",
+        "_type": "python_object (type = method)",
+        "_value": "gASVAAMAAAAAAACMCGJ1aWx0aW5zlIwHZ2V0YXR0cpSTlIwIX19tYWluX1+UjAZQYXJzZXKUk5QpgZR9lCiMBmNvbmZpZ5SMDWNvbmZpZy5tYXplMmSUjBFnZW5lcmF0ZV9leHBfbmFtZZRoAmgGaAqGlFKUjAdob3Jpem9ulE2AAYwPZGlmZnVzaW9uX2Vwb2NolIwGbGF0ZXN0lIwHbG9nYmFzZZSMBGxvZ3OUjAlzYXZlX2RpZmaUaAJoBmgShpRSlIwGZGV2aWNllIwEY3VkYZSMBnN1ZmZpeJSMATCUjBJkaWZmdXNpb25fbG9hZHBhdGiUjBNkaWZmdXNpb24vSDM4NF9UMjU2lIwIc2V0X3NlZWSUaAJoBmgbhpRSlIwLY29uZGl0aW9uYWyUiYwLcmVhZF9jb25maWeUaAJoBmgfhpRSlIwHZGF0YXNldJSMD21hemUyZC1sYXJnZS12MZSMDWV2YWxfZnN0cmluZ3OUaAJoBmgkhpRSlIwKZ2V0X2NvbW1pdJRoAmgGaCeGlFKUjAZwcmVmaXiUjA1wbGFucy9yZWxlYXNllIwIZXhwX25hbWWUjDVwbGFucy9yZWxlYXNlX0gzODRfVDI1Nl9MaW1pdHNOb3JtYWxpemVyX2IxX2NvbmRGYWxzZZSMCm5vcm1hbGl6ZXKUjBBMaW1pdHNOb3JtYWxpemVylIwIdmlzX2ZyZXGUSwqMCmFkZF9leHRyYXOUaAJoBmgxhpRSlIwKYmF0Y2hfc2l6ZZRLAYwGY29tbWl0lIwvNGRjMWU5ZTdlNTA1NGRhNmU4YTdlODM4NDAyMmM4Zjc5Y2U2OWM1MCBtYXN0ZXKUjAVta2RpcpRoAmgGaDeGlFKUjAhzYXZlcGF0aJSMTGxvZ3MvbWF6ZTJkLWxhcmdlLXYxL3BsYW5zL3JlbGVhc2VfSDM4NF9UMjU2X0xpbWl0c05vcm1hbGl6ZXJfYjFfY29uZEZhbHNlLzCUjBFuX2RpZmZ1c2lvbl9zdGVwc5RNAAF1Ymg3hpRSlC4="
+    },
+    "n_diffusion_steps": 256,
+    "normalizer": "LimitsNormalizer",
+    "prefix": "plans/release",
+    "read_config": {
+        "_string": "<bound method Parser.read_config of Parser(prog='plan_maze2d.py', usage=None, description=None, formatter_class=<class 'argparse.HelpFormatter'>, conflict_handler='error', add_help=True)>",
+        "_type": "python_object (type = method)",
+        "_value": "gASVAAMAAAAAAACMCGJ1aWx0aW5zlIwHZ2V0YXR0cpSTlIwIX19tYWluX1+UjAZQYXJzZXKUk5QpgZR9lCiMBmNvbmZpZ5SMDWNvbmZpZy5tYXplMmSUjBFnZW5lcmF0ZV9leHBfbmFtZZRoAmgGaAqGlFKUjAdob3Jpem9ulE2AAYwPZGlmZnVzaW9uX2Vwb2NolIwGbGF0ZXN0lIwHbG9nYmFzZZSMBGxvZ3OUjAlzYXZlX2RpZmaUaAJoBmgShpRSlIwGZGV2aWNllIwEY3VkYZSMBnN1ZmZpeJSMATCUjBJkaWZmdXNpb25fbG9hZHBhdGiUjBNkaWZmdXNpb24vSDM4NF9UMjU2lIwIc2V0X3NlZWSUaAJoBmgbhpRSlIwLY29uZGl0aW9uYWyUiYwLcmVhZF9jb25maWeUaAJoBmgfhpRSlIwHZGF0YXNldJSMD21hemUyZC1sYXJnZS12MZSMDWV2YWxfZnN0cmluZ3OUaAJoBmgkhpRSlIwKZ2V0X2NvbW1pdJRoAmgGaCeGlFKUjAZwcmVmaXiUjA1wbGFucy9yZWxlYXNllIwIZXhwX25hbWWUjDVwbGFucy9yZWxlYXNlX0gzODRfVDI1Nl9MaW1pdHNOb3JtYWxpemVyX2IxX2NvbmRGYWxzZZSMCm5vcm1hbGl6ZXKUjBBMaW1pdHNOb3JtYWxpemVylIwIdmlzX2ZyZXGUSwqMCmFkZF9leHRyYXOUaAJoBmgxhpRSlIwKYmF0Y2hfc2l6ZZRLAYwGY29tbWl0lIwvNGRjMWU5ZTdlNTA1NGRhNmU4YTdlODM4NDAyMmM4Zjc5Y2U2OWM1MCBtYXN0ZXKUjAVta2RpcpRoAmgGaDeGlFKUjAhzYXZlcGF0aJSMTGxvZ3MvbWF6ZTJkLWxhcmdlLXYxL3BsYW5zL3JlbGVhc2VfSDM4NF9UMjU2X0xpbWl0c05vcm1hbGl6ZXJfYjFfY29uZEZhbHNlLzCUjBFuX2RpZmZ1c2lvbl9zdGVwc5RNAAF1YmgfhpRSlC4="
+    },
+    "reproducibility": {
+        "command_line": "python scripts/plan_maze2d.py --config config.maze2d --dataset maze2d-large-v1",
+        "git_has_uncommitted_changes": true,
+        "git_root": "/home/zihao",
+        "git_url": "https://github.com/DonieXj/Multi-Robot-Navigation/tree/4dc1e9e7e5054da6e8a7e8384022c8f79ce69c50",
+        "time": "Thu Oct 24 12:58:57 2024"
+    },
+    "save_diff": {
+        "_string": "<bound method Parser.save_diff of Parser(prog='plan_maze2d.py', usage=None, description=None, formatter_class=<class 'argparse.HelpFormatter'>, conflict_handler='error', add_help=True)>",
+        "_type": "python_object (type = method)",
+        "_value": "gASVAAMAAAAAAACMCGJ1aWx0aW5zlIwHZ2V0YXR0cpSTlIwIX19tYWluX1+UjAZQYXJzZXKUk5QpgZR9lCiMBmNvbmZpZ5SMDWNvbmZpZy5tYXplMmSUjBFnZW5lcmF0ZV9leHBfbmFtZZRoAmgGaAqGlFKUjAdob3Jpem9ulE2AAYwPZGlmZnVzaW9uX2Vwb2NolIwGbGF0ZXN0lIwHbG9nYmFzZZSMBGxvZ3OUjAlzYXZlX2RpZmaUaAJoBmgShpRSlIwGZGV2aWNllIwEY3VkYZSMBnN1ZmZpeJSMATCUjBJkaWZmdXNpb25fbG9hZHBhdGiUjBNkaWZmdXNpb24vSDM4NF9UMjU2lIwIc2V0X3NlZWSUaAJoBmgbhpRSlIwLY29uZGl0aW9uYWyUiYwLcmVhZF9jb25maWeUaAJoBmgfhpRSlIwHZGF0YXNldJSMD21hemUyZC1sYXJnZS12MZSMDWV2YWxfZnN0cmluZ3OUaAJoBmgkhpRSlIwKZ2V0X2NvbW1pdJRoAmgGaCeGlFKUjAZwcmVmaXiUjA1wbGFucy9yZWxlYXNllIwIZXhwX25hbWWUjDVwbGFucy9yZWxlYXNlX0gzODRfVDI1Nl9MaW1pdHNOb3JtYWxpemVyX2IxX2NvbmRGYWxzZZSMCm5vcm1hbGl6ZXKUjBBMaW1pdHNOb3JtYWxpemVylIwIdmlzX2ZyZXGUSwqMCmFkZF9leHRyYXOUaAJoBmgxhpRSlIwKYmF0Y2hfc2l6ZZRLAYwGY29tbWl0lIwvNGRjMWU5ZTdlNTA1NGRhNmU4YTdlODM4NDAyMmM4Zjc5Y2U2OWM1MCBtYXN0ZXKUjAVta2RpcpRoAmgGaDeGlFKUjAhzYXZlcGF0aJSMTGxvZ3MvbWF6ZTJkLWxhcmdlLXYxL3BsYW5zL3JlbGVhc2VfSDM4NF9UMjU2X0xpbWl0c05vcm1hbGl6ZXJfYjFfY29uZEZhbHNlLzCUjBFuX2RpZmZ1c2lvbl9zdGVwc5RNAAF1YmgShpRSlC4="
+    },
+    "savepath": "logs/maze2d-large-v1/plans/release_H384_T256_LimitsNormalizer_b1_condFalse/0",
+    "set_seed": {
+        "_string": "<bound method Parser.set_seed of Parser(prog='plan_maze2d.py', usage=None, description=None, formatter_class=<class 'argparse.HelpFormatter'>, conflict_handler='error', add_help=True)>",
+        "_type": "python_object (type = method)",
+        "_value": "gASVAAMAAAAAAACMCGJ1aWx0aW5zlIwHZ2V0YXR0cpSTlIwIX19tYWluX1+UjAZQYXJzZXKUk5QpgZR9lCiMBmNvbmZpZ5SMDWNvbmZpZy5tYXplMmSUjBFnZW5lcmF0ZV9leHBfbmFtZZRoAmgGaAqGlFKUjAdob3Jpem9ulE2AAYwPZGlmZnVzaW9uX2Vwb2NolIwGbGF0ZXN0lIwHbG9nYmFzZZSMBGxvZ3OUjAlzYXZlX2RpZmaUaAJoBmgShpRSlIwGZGV2aWNllIwEY3VkYZSMBnN1ZmZpeJSMATCUjBJkaWZmdXNpb25fbG9hZHBhdGiUjBNkaWZmdXNpb24vSDM4NF9UMjU2lIwIc2V0X3NlZWSUaAJoBmgbhpRSlIwLY29uZGl0aW9uYWyUiYwLcmVhZF9jb25maWeUaAJoBmgfhpRSlIwHZGF0YXNldJSMD21hemUyZC1sYXJnZS12MZSMDWV2YWxfZnN0cmluZ3OUaAJoBmgkhpRSlIwKZ2V0X2NvbW1pdJRoAmgGaCeGlFKUjAZwcmVmaXiUjA1wbGFucy9yZWxlYXNllIwIZXhwX25hbWWUjDVwbGFucy9yZWxlYXNlX0gzODRfVDI1Nl9MaW1pdHNOb3JtYWxpemVyX2IxX2NvbmRGYWxzZZSMCm5vcm1hbGl6ZXKUjBBMaW1pdHNOb3JtYWxpemVylIwIdmlzX2ZyZXGUSwqMCmFkZF9leHRyYXOUaAJoBmgxhpRSlIwKYmF0Y2hfc2l6ZZRLAYwGY29tbWl0lIwvNGRjMWU5ZTdlNTA1NGRhNmU4YTdlODM4NDAyMmM4Zjc5Y2U2OWM1MCBtYXN0ZXKUjAVta2RpcpRoAmgGaDeGlFKUjAhzYXZlcGF0aJSMTGxvZ3MvbWF6ZTJkLWxhcmdlLXYxL3BsYW5zL3JlbGVhc2VfSDM4NF9UMjU2X0xpbWl0c05vcm1hbGl6ZXJfYjFfY29uZEZhbHNlLzCUjBFuX2RpZmZ1c2lvbl9zdGVwc5RNAAF1YmgbhpRSlC4="
+    },
+    "suffix": "0",
+    "vis_freq": 10
+}
