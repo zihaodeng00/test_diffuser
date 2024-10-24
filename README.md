@@ -9,7 +9,7 @@ This branch has the Maze2D experiments and will be merged into main shortly.
 </p>
 
 ## Original Diffuser Code
-This code is based on the [original diffuser code](https://github.com/jannerm/diffuser/tree/maze2d) from UCB. However, some of the packages in the original code were not compatible with my setup, so I made modifications to both the packages and the training code to ensure compatibility and functionality.
+This code is based on the [original diffuser code](https://github.com/jannerm/diffuser/tree/maze2d) from UCB.
 
 ## MuJoCo Installation
 
