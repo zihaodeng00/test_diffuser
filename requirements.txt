@@ -78,7 +78,6 @@ ml-dtypes==0.2.0
 more-itertools==10.5.0
 msgpack==1.1.0
 mujoco==3.2.3
-mujoco-py==2.0.2.5
 mypy-extensions==1.0.0
 nest-asyncio==1.6.0
 networkx==3.1
@@ -142,3 +141,4 @@ wadllib==2.0.0
 wandb==0.18.5
 wheel==0.37.0
 zipp==3.20.2
+numpy

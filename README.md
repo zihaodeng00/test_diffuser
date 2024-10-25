@@ -23,12 +23,13 @@ To run this Diffuser, MuJoCo 2.00 should be installed. You can use the provided 
    ```bash
    chmod +x install_mujoco.sh
    ./install_mujoco.sh
-3. After installation, add the following lines to your `.bashrc` (or `.zshrc`):
+3. Show the hidden file, move the repository `mujoco200_linux` under `.mujuco`, remame it to `mujoco200`
+4. After installation, add the following lines to your `.bashrc` (or `.zshrc`):
     ```
     export MUJOCO_PY_MUJOCO_PATH=~/.mujoco/mujoco200
     export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:~/.mujoco/mujoco200/bin
     ```
-4. Apply the changes by running:
+5. Apply the changes by running:
     ```
     source ~/.bashrc
     ```
@@ -39,6 +40,7 @@ conda env create -f environment.yaml
 conda activate diffuser
 pip install -r requirements.txt 
 pip install -e .
+pip install mujoco-py==2.0.2.5
 ```
 
 ## Training
